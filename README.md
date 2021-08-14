@@ -1,3 +1,3 @@
 # Movie API with GraphQL
 
-practice graphQL with React
+practice GraphQL with React
